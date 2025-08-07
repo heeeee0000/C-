@@ -19,6 +19,7 @@ int main(){
 
     cout<<b[i]<<" ";
   }
+  delete[] a;
 
 
 }
